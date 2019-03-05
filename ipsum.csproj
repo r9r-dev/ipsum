@@ -9,6 +9,7 @@
     <Company>Ronan Lamour</Company>
     <Copyright>Ronan Lamour</Copyright>
     <PackageTags>lorem ipsum fake generator générateur texte email téléphone</PackageTags>
+    <PackageLicenseExpression>WTFPL</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
